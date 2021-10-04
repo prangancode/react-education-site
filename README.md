@@ -1,6 +1,6 @@
 # Welcome To Edu Assists Website
 
-Netlify Link : https://edu-assists-react.netlify.app/
+Netlify Link : https://react-educational-review-site.netlify.app/
 
 ## Bullet Points
 
